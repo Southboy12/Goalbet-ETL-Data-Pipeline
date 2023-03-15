@@ -27,9 +27,4 @@ def get_links():
                 pass
         return links
             
-            
-
         
-
-docv = get_links()
-docv
