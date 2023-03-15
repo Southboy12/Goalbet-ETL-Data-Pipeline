@@ -1,0 +1,1333 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG
+E0,09/08/2019,Liverpool,Norwich,4,1
+E0,10/08/2019,West Ham,Man City,0,5
+E0,10/08/2019,Bournemouth,Sheffield United,1,1
+E0,10/08/2019,Burnley,Southampton,3,0
+E0,10/08/2019,Crystal Palace,Everton,0,0
+E0,10/08/2019,Watford,Brighton,0,3
+E0,10/08/2019,Tottenham,Aston Villa,3,1
+E0,11/08/2019,Leicester,Wolves,0,0
+E0,11/08/2019,Newcastle,Arsenal,0,1
+E0,11/08/2019,Man United,Chelsea,4,0
+E0,17/08/2019,Arsenal,Burnley,2,1
+E0,17/08/2019,Aston Villa,Bournemouth,1,2
+E0,17/08/2019,Brighton,West Ham,1,1
+E0,17/08/2019,Everton,Watford,1,0
+E0,17/08/2019,Norwich,Newcastle,3,1
+E0,17/08/2019,Southampton,Liverpool,1,2
+E0,17/08/2019,Man City,Tottenham,2,2
+E0,18/08/2019,Sheffield United,Crystal Palace,1,0
+E0,18/08/2019,Chelsea,Leicester,1,1
+E0,19/08/2019,Wolves,Man United,1,1
+E0,23/08/2019,Aston Villa,Everton,2,0
+E0,24/08/2019,Norwich,Chelsea,2,3
+E0,24/08/2019,Brighton,Southampton,0,2
+E0,24/08/2019,Man United,Crystal Palace,1,2
+E0,24/08/2019,Sheffield United,Leicester,1,2
+E0,24/08/2019,Watford,West Ham,1,3
+E0,24/08/2019,Liverpool,Arsenal,3,1
+E0,25/08/2019,Bournemouth,Man City,1,3
+E0,25/08/2019,Tottenham,Newcastle,0,1
+E0,25/08/2019,Wolves,Burnley,1,1
+E0,31/08/2019,Southampton,Man United,1,1
+E0,31/08/2019,Chelsea,Sheffield United,2,2
+E0,31/08/2019,Crystal Palace,Aston Villa,1,0
+E0,31/08/2019,Leicester,Bournemouth,3,1
+E0,31/08/2019,Man City,Brighton,4,0
+E0,31/08/2019,Newcastle,Watford,1,1
+E0,31/08/2019,West Ham,Norwich,2,0
+E0,31/08/2019,Burnley,Liverpool,0,3
+E0,01/09/2019,Everton,Wolves,3,2
+E0,01/09/2019,Arsenal,Tottenham,2,2
+E0,14/09/2019,Liverpool,Newcastle,3,1
+E0,14/09/2019,Brighton,Burnley,1,1
+E0,14/09/2019,Man United,Leicester,1,0
+E0,14/09/2019,Sheffield United,Southampton,0,1
+E0,14/09/2019,Tottenham,Crystal Palace,4,0
+E0,14/09/2019,Wolves,Chelsea,2,5
+E0,14/09/2019,Norwich,Man City,3,2
+E0,15/09/2019,Bournemouth,Everton,3,1
+E0,15/09/2019,Watford,Arsenal,2,2
+E0,16/09/2019,Aston Villa,West Ham,0,0
+E0,20/09/2019,Southampton,Bournemouth,1,3
+E0,21/09/2019,Leicester,Tottenham,2,1
+E0,21/09/2019,Burnley,Norwich,2,0
+E0,21/09/2019,Everton,Sheffield United,0,2
+E0,21/09/2019,Man City,Watford,8,0
+E0,21/09/2019,Newcastle,Brighton,0,0
+E0,22/09/2019,Crystal Palace,Wolves,1,1
+E0,22/09/2019,West Ham,Man United,2,0
+E0,22/09/2019,Arsenal,Aston Villa,3,2
+E0,22/09/2019,Chelsea,Liverpool,1,2
+E0,28/09/2019,Sheffield United,Liverpool,0,1
+E0,28/09/2019,Aston Villa,Burnley,2,2
+E0,28/09/2019,Bournemouth,West Ham,2,2
+E0,28/09/2019,Chelsea,Brighton,2,0
+E0,28/09/2019,Crystal Palace,Norwich,2,0
+E0,28/09/2019,Tottenham,Southampton,2,1
+E0,28/09/2019,Wolves,Watford,2,0
+E0,28/09/2019,Everton,Man City,1,3
+E0,29/09/2019,Leicester,Newcastle,5,0
+E0,30/09/2019,Man United,Arsenal,1,1
+E0,05/10/2019,Brighton,Tottenham,3,0
+E0,05/10/2019,Burnley,Everton,1,0
+E0,05/10/2019,Liverpool,Leicester,2,1
+E0,05/10/2019,Norwich,Aston Villa,1,5
+E0,05/10/2019,Watford,Sheffield United,0,0
+E0,05/10/2019,West Ham,Crystal Palace,1,2
+E0,06/10/2019,Arsenal,Bournemouth,1,0
+E0,06/10/2019,Man City,Wolves,0,2
+E0,06/10/2019,Southampton,Chelsea,1,4
+E0,06/10/2019,Newcastle,Man United,1,0
+E0,19/10/2019,Everton,West Ham,2,0
+E0,19/10/2019,Aston Villa,Brighton,2,1
+E0,19/10/2019,Bournemouth,Norwich,0,0
+E0,19/10/2019,Chelsea,Newcastle,1,0
+E0,19/10/2019,Leicester,Burnley,2,1
+E0,19/10/2019,Tottenham,Watford,1,1
+E0,19/10/2019,Wolves,Southampton,1,1
+E0,19/10/2019,Crystal Palace,Man City,0,2
+E0,20/10/2019,Man United,Liverpool,1,1
+E0,21/10/2019,Sheffield United,Arsenal,1,0
+E0,25/10/2019,Southampton,Leicester,0,9
+E0,26/10/2019,Man City,Aston Villa,3,0
+E0,26/10/2019,Brighton,Everton,3,2
+E0,26/10/2019,Watford,Bournemouth,0,0
+E0,26/10/2019,West Ham,Sheffield United,1,1
+E0,26/10/2019,Burnley,Chelsea,2,4
+E0,27/10/2019,Newcastle,Wolves,1,1
+E0,27/10/2019,Arsenal,Crystal Palace,2,2
+E0,27/10/2019,Liverpool,Tottenham,2,1
+E0,27/10/2019,Norwich,Man United,1,3
+E0,02/11/2019,Bournemouth,Man United,1,0
+E0,02/11/2019,Arsenal,Wolves,1,1
+E0,02/11/2019,Aston Villa,Liverpool,1,2
+E0,02/11/2019,Brighton,Norwich,2,0
+E0,02/11/2019,Man City,Southampton,2,1
+E0,02/11/2019,Sheffield United,Burnley,3,0
+E0,02/11/2019,West Ham,Newcastle,2,3
+E0,02/11/2019,Watford,Chelsea,1,2
+E0,03/11/2019,Crystal Palace,Leicester,0,2
+E0,03/11/2019,Everton,Tottenham,1,1
+E0,08/11/2019,Norwich,Watford,0,2
+E0,09/11/2019,Chelsea,Crystal Palace,2,0
+E0,09/11/2019,Burnley,West Ham,3,0
+E0,09/11/2019,Newcastle,Bournemouth,2,1
+E0,09/11/2019,Southampton,Everton,1,2
+E0,09/11/2019,Tottenham,Sheffield United,1,1
+E0,09/11/2019,Leicester,Arsenal,2,0
+E0,10/11/2019,Man United,Brighton,3,1
+E0,10/11/2019,Wolves,Aston Villa,2,1
+E0,10/11/2019,Liverpool,Man City,3,1
+E0,23/11/2019,West Ham,Tottenham,2,3
+E0,23/11/2019,Arsenal,Southampton,2,2
+E0,23/11/2019,Bournemouth,Wolves,1,2
+E0,23/11/2019,Brighton,Leicester,0,2
+E0,23/11/2019,Crystal Palace,Liverpool,1,2
+E0,23/11/2019,Everton,Norwich,0,2
+E0,23/11/2019,Watford,Burnley,0,3
+E0,23/11/2019,Man City,Chelsea,2,1
+E0,24/11/2019,Sheffield United,Man United,3,3
+E0,25/11/2019,Aston Villa,Newcastle,2,0
+E0,30/11/2019,Newcastle,Man City,2,2
+E0,30/11/2019,Burnley,Crystal Palace,0,2
+E0,30/11/2019,Chelsea,West Ham,0,1
+E0,30/11/2019,Liverpool,Brighton,2,1
+E0,30/11/2019,Tottenham,Bournemouth,3,2
+E0,30/11/2019,Southampton,Watford,2,1
+E0,01/12/2019,Norwich,Arsenal,2,2
+E0,01/12/2019,Wolves,Sheffield United,1,1
+E0,01/12/2019,Leicester,Everton,2,1
+E0,01/12/2019,Man United,Aston Villa,2,2
+E0,03/12/2019,Crystal Palace,Bournemouth,1,0
+E0,03/12/2019,Burnley,Man City,1,4
+E0,04/12/2019,Chelsea,Aston Villa,2,1
+E0,04/12/2019,Leicester,Watford,2,0
+E0,04/12/2019,Man United,Tottenham,2,1
+E0,04/12/2019,Southampton,Norwich,2,1
+E0,04/12/2019,Wolves,West Ham,2,0
+E0,04/12/2019,Liverpool,Everton,5,2
+E0,05/12/2019,Sheffield United,Newcastle,0,2
+E0,05/12/2019,Arsenal,Brighton,1,2
+E0,07/12/2019,Everton,Chelsea,3,1
+E0,07/12/2019,Bournemouth,Liverpool,0,3
+E0,07/12/2019,Tottenham,Burnley,5,0
+E0,07/12/2019,Watford,Crystal Palace,0,0
+E0,07/12/2019,Man City,Man United,1,2
+E0,08/12/2019,Aston Villa,Leicester,1,4
+E0,08/12/2019,Newcastle,Southampton,2,1
+E0,08/12/2019,Norwich,Sheffield United,1,2
+E0,08/12/2019,Brighton,Wolves,2,2
+E0,09/12/2019,West Ham,Arsenal,1,3
+E0,14/12/2019,Liverpool,Watford,2,0
+E0,14/12/2019,Burnley,Newcastle,1,0
+E0,14/12/2019,Chelsea,Bournemouth,0,1
+E0,14/12/2019,Leicester,Norwich,1,1
+E0,14/12/2019,Sheffield United,Aston Villa,2,0
+E0,14/12/2019,Southampton,West Ham,0,1
+E0,15/12/2019,Man United,Everton,1,1
+E0,15/12/2019,Wolves,Tottenham,1,2
+E0,15/12/2019,Arsenal,Man City,0,3
+E0,16/12/2019,Crystal Palace,Brighton,1,1
+E0,21/12/2019,Everton,Arsenal,0,0
+E0,21/12/2019,Aston Villa,Southampton,1,3
+E0,21/12/2019,Bournemouth,Burnley,0,1
+E0,21/12/2019,Brighton,Sheffield United,0,1
+E0,21/12/2019,Newcastle,Crystal Palace,1,0
+E0,21/12/2019,Norwich,Wolves,1,2
+E0,21/12/2019,Man City,Leicester,3,1
+E0,22/12/2019,Watford,Man United,2,0
+E0,22/12/2019,Tottenham,Chelsea,0,2
+E0,26/12/2019,Tottenham,Brighton,2,1
+E0,26/12/2019,Aston Villa,Norwich,1,0
+E0,26/12/2019,Bournemouth,Arsenal,1,1
+E0,26/12/2019,Chelsea,Southampton,0,2
+E0,26/12/2019,Crystal Palace,West Ham,2,1
+E0,26/12/2019,Everton,Burnley,1,0
+E0,26/12/2019,Sheffield United,Watford,1,1
+E0,26/12/2019,Man United,Newcastle,4,1
+E0,26/12/2019,Leicester,Liverpool,0,4
+E0,27/12/2019,Wolves,Man City,3,2
+E0,28/12/2019,Brighton,Bournemouth,2,0
+E0,28/12/2019,Newcastle,Everton,1,2
+E0,28/12/2019,Southampton,Crystal Palace,1,1
+E0,28/12/2019,Watford,Aston Villa,3,0
+E0,28/12/2019,Norwich,Tottenham,2,2
+E0,28/12/2019,West Ham,Leicester,1,2
+E0,28/12/2019,Burnley,Man United,0,2
+E0,29/12/2019,Arsenal,Chelsea,1,2
+E0,29/12/2019,Liverpool,Wolves,1,0
+E0,29/12/2019,Man City,Sheffield United,2,0
+E0,01/01/2020,Brighton,Chelsea,1,1
+E0,01/01/2020,Burnley,Aston Villa,1,2
+E0,01/01/2020,Newcastle,Leicester,0,3
+E0,01/01/2020,Southampton,Tottenham,1,0
+E0,01/01/2020,Watford,Wolves,2,1
+E0,01/01/2020,Man City,Everton,2,1
+E0,01/01/2020,Norwich,Crystal Palace,1,1
+E0,01/01/2020,West Ham,Bournemouth,4,0
+E0,01/01/2020,Arsenal,Man United,2,0
+E0,02/01/2020,Liverpool,Sheffield United,2,0
+E0,10/01/2020,Sheffield United,West Ham,1,0
+E0,11/01/2020,Crystal Palace,Arsenal,1,1
+E0,11/01/2020,Chelsea,Burnley,3,0
+E0,11/01/2020,Everton,Brighton,1,0
+E0,11/01/2020,Leicester,Southampton,1,2
+E0,11/01/2020,Man United,Norwich,4,0
+E0,11/01/2020,Wolves,Newcastle,1,1
+E0,11/01/2020,Tottenham,Liverpool,0,1
+E0,12/01/2020,Bournemouth,Watford,0,3
+E0,12/01/2020,Aston Villa,Man City,1,6
+E0,18/01/2020,Watford,Tottenham,0,0
+E0,18/01/2020,Arsenal,Sheffield United,1,1
+E0,18/01/2020,Brighton,Aston Villa,1,1
+E0,18/01/2020,Man City,Crystal Palace,2,2
+E0,18/01/2020,Norwich,Bournemouth,1,0
+E0,18/01/2020,Southampton,Wolves,2,3
+E0,18/01/2020,West Ham,Everton,1,1
+E0,18/01/2020,Newcastle,Chelsea,1,0
+E0,19/01/2020,Burnley,Leicester,2,1
+E0,19/01/2020,Liverpool,Man United,2,0
+E0,21/01/2020,Aston Villa,Watford,2,1
+E0,21/01/2020,Bournemouth,Brighton,3,1
+E0,21/01/2020,Crystal Palace,Southampton,0,2
+E0,21/01/2020,Everton,Newcastle,2,2
+E0,21/01/2020,Sheffield United,Man City,0,1
+E0,21/01/2020,Chelsea,Arsenal,2,2
+E0,22/01/2020,Leicester,West Ham,4,1
+E0,22/01/2020,Tottenham,Norwich,2,1
+E0,22/01/2020,Man United,Burnley,0,2
+E0,23/01/2020,Wolves,Liverpool,1,2
+E0,29/01/2020,West Ham,Liverpool,0,2
+E0,01/02/2020,Leicester,Chelsea,2,2
+E0,01/02/2020,Bournemouth,Aston Villa,2,1
+E0,01/02/2020,Crystal Palace,Sheffield United,0,1
+E0,01/02/2020,Liverpool,Southampton,4,0
+E0,01/02/2020,Newcastle,Norwich,0,0
+E0,01/02/2020,Watford,Everton,2,3
+E0,01/02/2020,West Ham,Brighton,3,3
+E0,01/02/2020,Man United,Wolves,0,0
+E0,02/02/2020,Burnley,Arsenal,0,0
+E0,02/02/2020,Tottenham,Man City,2,0
+E0,08/02/2020,Everton,Crystal Palace,3,1
+E0,08/02/2020,Brighton,Watford,1,1
+E0,09/02/2020,Sheffield United,Bournemouth,2,1
+E0,14/02/2020,Wolves,Leicester,0,0
+E0,15/02/2020,Southampton,Burnley,1,2
+E0,15/02/2020,Norwich,Liverpool,0,1
+E0,16/02/2020,Aston Villa,Tottenham,2,3
+E0,16/02/2020,Arsenal,Newcastle,4,0
+E0,17/02/2020,Chelsea,Man United,0,2
+E0,19/02/2020,Man City,West Ham,2,0
+E0,22/02/2020,Chelsea,Tottenham,2,1
+E0,22/02/2020,Burnley,Bournemouth,3,0
+E0,22/02/2020,Crystal Palace,Newcastle,1,0
+E0,22/02/2020,Sheffield United,Brighton,1,1
+E0,22/02/2020,Southampton,Aston Villa,2,0
+E0,22/02/2020,Leicester,Man City,0,1
+E0,23/02/2020,Man United,Watford,3,0
+E0,23/02/2020,Wolves,Norwich,3,0
+E0,23/02/2020,Arsenal,Everton,3,2
+E0,24/02/2020,Liverpool,West Ham,3,2
+E0,28/02/2020,Norwich,Leicester,1,0
+E0,29/02/2020,Brighton,Crystal Palace,0,1
+E0,29/02/2020,Bournemouth,Chelsea,2,2
+E0,29/02/2020,Newcastle,Burnley,0,0
+E0,29/02/2020,West Ham,Southampton,3,1
+E0,29/02/2020,Watford,Liverpool,3,0
+E0,01/03/2020,Everton,Man United,1,1
+E0,01/03/2020,Tottenham,Wolves,2,3
+E0,07/03/2020,Liverpool,Bournemouth,2,1
+E0,07/03/2020,Arsenal,West Ham,1,0
+E0,07/03/2020,Crystal Palace,Watford,1,0
+E0,07/03/2020,Sheffield United,Norwich,1,0
+E0,07/03/2020,Southampton,Newcastle,0,1
+E0,07/03/2020,Wolves,Brighton,0,0
+E0,07/03/2020,Burnley,Tottenham,1,1
+E0,08/03/2020,Chelsea,Everton,4,0
+E0,08/03/2020,Man United,Man City,2,0
+E0,09/03/2020,Leicester,Aston Villa,4,0
+E0,17/06/2020,Aston Villa,Sheffield United,0,0
+E0,17/06/2020,Man City,Arsenal,3,0
+E0,19/06/2020,Norwich,Southampton,0,3
+E0,19/06/2020,Tottenham,Man United,1,1
+E0,20/06/2020,Watford,Leicester,1,1
+E0,20/06/2020,Brighton,Arsenal,2,1
+E0,20/06/2020,West Ham,Wolves,0,2
+E0,20/06/2020,Bournemouth,Crystal Palace,0,2
+E0,21/06/2020,Newcastle,Sheffield United,3,0
+E0,21/06/2020,Aston Villa,Chelsea,1,2
+E0,21/06/2020,Everton,Liverpool,0,0
+E0,22/06/2020,Man City,Burnley,5,0
+E0,23/06/2020,Leicester,Brighton,0,0
+E0,23/06/2020,Tottenham,West Ham,2,0
+E0,24/06/2020,Man United,Sheffield United,3,0
+E0,24/06/2020,Newcastle,Aston Villa,1,1
+E0,24/06/2020,Norwich,Everton,0,1
+E0,24/06/2020,Wolves,Bournemouth,1,0
+E0,24/06/2020,Liverpool,Crystal Palace,4,0
+E0,25/06/2020,Burnley,Watford,1,0
+E0,25/06/2020,Southampton,Arsenal,0,2
+E0,25/06/2020,Chelsea,Man City,2,1
+E0,27/06/2020,Aston Villa,Wolves,0,1
+E0,28/06/2020,Watford,Southampton,1,3
+E0,29/06/2020,Crystal Palace,Burnley,0,1
+E0,30/06/2020,Brighton,Man United,0,3
+E0,01/07/2020,Arsenal,Norwich,4,0
+E0,01/07/2020,Bournemouth,Newcastle,1,4
+E0,01/07/2020,Everton,Leicester,2,1
+E0,01/07/2020,West Ham,Chelsea,3,2
+E0,02/07/2020,Sheffield United,Tottenham,3,1
+E0,02/07/2020,Man City,Liverpool,4,0
+E0,04/07/2020,Norwich,Brighton,0,1
+E0,04/07/2020,Leicester,Crystal Palace,3,0
+E0,04/07/2020,Man United,Bournemouth,5,2
+E0,04/07/2020,Wolves,Arsenal,0,2
+E0,04/07/2020,Chelsea,Watford,3,0
+E0,05/07/2020,Burnley,Sheffield United,1,1
+E0,05/07/2020,Newcastle,West Ham,2,2
+E0,05/07/2020,Liverpool,Aston Villa,2,0
+E0,05/07/2020,Southampton,Man City,1,0
+E0,06/07/2020,Tottenham,Everton,1,0
+E0,07/07/2020,Crystal Palace,Chelsea,2,3
+E0,07/07/2020,Watford,Norwich,2,1
+E0,07/07/2020,Arsenal,Leicester,1,1
+E0,08/07/2020,Man City,Newcastle,5,0
+E0,08/07/2020,Sheffield United,Wolves,1,0
+E0,08/07/2020,West Ham,Burnley,0,1
+E0,08/07/2020,Brighton,Liverpool,1,3
+E0,09/07/2020,Bournemouth,Tottenham,0,0
+E0,09/07/2020,Everton,Southampton,1,1
+E0,09/07/2020,Aston Villa,Man United,0,3
+E0,11/07/2020,Norwich,West Ham,0,4
+E0,11/07/2020,Watford,Newcastle,2,1
+E0,11/07/2020,Liverpool,Burnley,1,1
+E0,11/07/2020,Sheffield United,Chelsea,3,0
+E0,11/07/2020,Brighton,Man City,0,5
+E0,12/07/2020,Wolves,Everton,3,0
+E0,12/07/2020,Aston Villa,Crystal Palace,2,0
+E0,12/07/2020,Tottenham,Arsenal,2,1
+E0,12/07/2020,Bournemouth,Leicester,4,1
+E0,13/07/2020,Man United,Southampton,2,2
+E0,14/07/2020,Chelsea,Norwich,1,0
+E0,15/07/2020,Burnley,Wolves,1,1
+E0,15/07/2020,Man City,Bournemouth,2,1
+E0,15/07/2020,Newcastle,Tottenham,1,3
+E0,15/07/2020,Arsenal,Liverpool,2,1
+E0,16/07/2020,Everton,Aston Villa,1,1
+E0,16/07/2020,Leicester,Sheffield United,2,0
+E0,16/07/2020,Crystal Palace,Man United,0,2
+E0,16/07/2020,Southampton,Brighton,1,1
+E0,17/07/2020,West Ham,Watford,3,1
+E0,18/07/2020,Norwich,Burnley,0,2
+E0,19/07/2020,Bournemouth,Southampton,0,2
+E0,19/07/2020,Tottenham,Leicester,3,0
+E0,20/07/2020,Brighton,Newcastle,0,0
+E0,20/07/2020,Sheffield United,Everton,0,1
+E0,20/07/2020,Wolves,Crystal Palace,2,0
+E0,21/07/2020,Watford,Man City,0,4
+E0,21/07/2020,Aston Villa,Arsenal,1,0
+E0,22/07/2020,Man United,West Ham,1,1
+E0,22/07/2020,Liverpool,Chelsea,5,3
+E0,26/07/2020,Arsenal,Watford,3,2
+E0,26/07/2020,Burnley,Brighton,1,2
+E0,26/07/2020,Chelsea,Wolves,2,0
+E0,26/07/2020,Crystal Palace,Tottenham,1,1
+E0,26/07/2020,Everton,Bournemouth,1,3
+E0,26/07/2020,Leicester,Man United,0,2
+E0,26/07/2020,Man City,Norwich,5,0
+E0,26/07/2020,Newcastle,Liverpool,1,3
+E0,26/07/2020,Southampton,Sheffield United,3,1
+E0,26/07/2020,West Ham,Aston Villa,1,1
+E2,03/08/2019,AFC Wimbledon,Rotherham,1,2
+E2,03/08/2019,Blackpool,Bristol Rvs,2,0
+E2,03/08/2019,Burton,Ipswich,0,1
+E2,03/08/2019,Coventry,Southend,1,0
+E2,03/08/2019,Doncaster,Gillingham,1,1
+E2,03/08/2019,Lincoln,Accrington,2,0
+E2,03/08/2019,Peterboro,Fleetwood Town,1,3
+E2,03/08/2019,Shrewsbury,Portsmouth,1,0
+E2,03/08/2019,Sunderland,Oxford,1,1
+E2,03/08/2019,Tranmere,Rochdale,2,3
+E2,03/08/2019,Wycombe,Bolton,2,0
+E2,10/08/2019,Bolton,Coventry,0,0
+E2,10/08/2019,Bristol Rvs,Wycombe,0,0
+E2,10/08/2019,Fleetwood Town,AFC Wimbledon,2,1
+E2,10/08/2019,Gillingham,Burton,1,2
+E2,10/08/2019,Ipswich,Sunderland,1,1
+E2,10/08/2019,Milton Keynes Dons,Shrewsbury,1,0
+E2,10/08/2019,Oxford,Peterboro,1,0
+E2,10/08/2019,Portsmouth,Tranmere,2,0
+E2,10/08/2019,Rochdale,Doncaster,1,1
+E2,10/08/2019,Rotherham,Lincoln,0,2
+E2,10/08/2019,Southend,Blackpool,1,3
+E2,17/08/2019,Sunderland,Portsmouth,2,1
+E2,17/08/2019,AFC Wimbledon,Accrington,1,1
+E2,17/08/2019,Blackpool,Oxford,2,1
+E2,17/08/2019,Burton,Rotherham,0,1
+E2,17/08/2019,Coventry,Bristol Rvs,2,0
+E2,17/08/2019,Doncaster,Fleetwood Town,3,2
+E2,17/08/2019,Lincoln,Southend,4,0
+E2,17/08/2019,Peterboro,Ipswich,2,2
+E2,17/08/2019,Shrewsbury,Rochdale,0,0
+E2,17/08/2019,Tranmere,Bolton,5,0
+E2,17/08/2019,Wycombe,Milton Keynes Dons,3,2
+E2,20/08/2019,Accrington,Shrewsbury,2,3
+E2,20/08/2019,Bristol Rvs,Tranmere,2,0
+E2,20/08/2019,Fleetwood Town,Wycombe,1,1
+E2,20/08/2019,Gillingham,Blackpool,2,2
+E2,20/08/2019,Ipswich,AFC Wimbledon,2,1
+E2,20/08/2019,Milton Keynes Dons,Lincoln,2,1
+E2,20/08/2019,Oxford,Burton,2,4
+E2,20/08/2019,Portsmouth,Coventry,3,3
+E2,20/08/2019,Rochdale,Sunderland,1,2
+E2,20/08/2019,Southend,Peterboro,0,2
+E2,24/08/2019,Doncaster,Lincoln,2,1
+E2,24/08/2019,Bolton,Ipswich,0,5
+E2,24/08/2019,Bristol Rvs,Oxford,3,1
+E2,24/08/2019,Coventry,Gillingham,1,0
+E2,24/08/2019,Fleetwood Town,Accrington,2,0
+E2,24/08/2019,Milton Keynes Dons,Peterboro,0,4
+E2,24/08/2019,Rochdale,Blackpool,0,0
+E2,24/08/2019,Shrewsbury,Burton,0,0
+E2,24/08/2019,Sunderland,AFC Wimbledon,3,1
+E2,24/08/2019,Wycombe,Southend,4,3
+E2,31/08/2019,Accrington,Milton Keynes Dons,2,1
+E2,31/08/2019,AFC Wimbledon,Wycombe,0,0
+E2,31/08/2019,Blackpool,Portsmouth,1,1
+E2,31/08/2019,Burton,Bristol Rvs,2,0
+E2,31/08/2019,Gillingham,Bolton,5,0
+E2,31/08/2019,Ipswich,Shrewsbury,3,0
+E2,31/08/2019,Lincoln,Fleetwood Town,2,0
+E2,31/08/2019,Oxford,Coventry,3,3
+E2,31/08/2019,Peterboro,Sunderland,3,0
+E2,31/08/2019,Rotherham,Tranmere,1,1
+E2,31/08/2019,Southend,Rochdale,0,3
+E2,07/09/2019,Milton Keynes Dons,AFC Wimbledon,2,1
+E2,07/09/2019,Doncaster,Rotherham,2,1
+E2,07/09/2019,Bristol Rvs,Accrington,3,3
+E2,07/09/2019,Coventry,Blackpool,3,2
+E2,07/09/2019,Fleetwood Town,Oxford,2,1
+E2,07/09/2019,Tranmere,Gillingham,2,2
+E2,07/09/2019,Wycombe,Lincoln,3,1
+E2,14/09/2019,Accrington,Sunderland,1,3
+E2,14/09/2019,AFC Wimbledon,Shrewsbury,1,1
+E2,14/09/2019,Blackpool,Milton Keynes Dons,0,3
+E2,14/09/2019,Burton,Coventry,0,0
+E2,14/09/2019,Gillingham,Wycombe,2,0
+E2,14/09/2019,Ipswich,Doncaster,0,0
+E2,14/09/2019,Lincoln,Bristol Rvs,0,1
+E2,14/09/2019,Oxford,Tranmere,3,0
+E2,14/09/2019,Peterboro,Rochdale,6,0
+E2,14/09/2019,Rotherham,Bolton,6,1
+E2,14/09/2019,Southend,Fleetwood Town,3,3
+E2,17/09/2019,Bristol Rvs,Gillingham,1,1
+E2,17/09/2019,Coventry,AFC Wimbledon,2,1
+E2,17/09/2019,Doncaster,Blackpool,0,1
+E2,17/09/2019,Milton Keynes Dons,Ipswich,0,1
+E2,17/09/2019,Portsmouth,Burton,2,2
+E2,17/09/2019,Rochdale,Lincoln,1,1
+E2,17/09/2019,Shrewsbury,Southend,4,3
+E2,17/09/2019,Sunderland,Rotherham,1,1
+E2,17/09/2019,Tranmere,Peterboro,2,2
+E2,17/09/2019,Wycombe,Accrington,1,1
+E2,17/09/2019,Bolton,Oxford,0,0
+E2,21/09/2019,Accrington,Blackpool,1,1
+E2,21/09/2019,AFC Wimbledon,Bristol Rvs,1,3
+E2,21/09/2019,Bolton,Sunderland,1,1
+E2,21/09/2019,Doncaster,Peterboro,2,0
+E2,21/09/2019,Fleetwood Town,Rochdale,2,1
+E2,21/09/2019,Gillingham,Ipswich,0,1
+E2,21/09/2019,Lincoln,Oxford,0,6
+E2,21/09/2019,Milton Keynes Dons,Southend,0,1
+E2,21/09/2019,Rotherham,Shrewsbury,0,0
+E2,21/09/2019,Tranmere,Burton,2,1
+E2,21/09/2019,Wycombe,Portsmouth,1,0
+E2,27/09/2019,Blackpool,Lincoln,2,1
+E2,28/09/2019,Bristol Rvs,Rotherham,1,0
+E2,28/09/2019,Coventry,Doncaster,1,1
+E2,28/09/2019,Ipswich,Tranmere,4,1
+E2,28/09/2019,Oxford,Gillingham,3,0
+E2,28/09/2019,Peterboro,AFC Wimbledon,3,2
+E2,28/09/2019,Portsmouth,Bolton,1,0
+E2,28/09/2019,Rochdale,Wycombe,0,3
+E2,28/09/2019,Shrewsbury,Fleetwood Town,0,3
+E2,28/09/2019,Southend,Accrington,0,1
+E2,28/09/2019,Sunderland,Milton Keynes Dons,2,1
+E2,05/10/2019,Accrington,Oxford,2,2
+E2,05/10/2019,AFC Wimbledon,Rochdale,3,2
+E2,05/10/2019,Doncaster,Portsmouth,1,2
+E2,05/10/2019,Fleetwood Town,Ipswich,0,1
+E2,05/10/2019,Gillingham,Southend,3,1
+E2,05/10/2019,Lincoln,Sunderland,2,0
+E2,05/10/2019,Milton Keynes Dons,Burton,0,3
+E2,05/10/2019,Rotherham,Coventry,4,0
+E2,05/10/2019,Tranmere,Shrewsbury,0,1
+E2,05/10/2019,Wycombe,Peterboro,3,3
+E2,07/10/2019,Bolton,Blackpool,0,0
+E2,12/10/2019,Blackpool,Rotherham,1,2
+E2,12/10/2019,Bristol Rvs,Milton Keynes Dons,1,0
+E2,12/10/2019,Oxford,Doncaster,3,0
+E2,12/10/2019,Peterboro,Lincoln,2,0
+E2,12/10/2019,Portsmouth,Gillingham,0,0
+E2,12/10/2019,Rochdale,Accrington,2,1
+E2,12/10/2019,Southend,AFC Wimbledon,1,4
+E2,13/10/2019,Coventry,Tranmere,0,1
+E2,18/10/2019,Lincoln,Shrewsbury,0,0
+E2,18/10/2019,Tranmere,Southend,1,1
+E2,19/10/2019,AFC Wimbledon,Portsmouth,1,0
+E2,19/10/2019,Bolton,Rochdale,1,3
+E2,19/10/2019,Doncaster,Bristol Rvs,2,0
+E2,19/10/2019,Fleetwood Town,Burton,4,1
+E2,19/10/2019,Gillingham,Peterboro,1,2
+E2,19/10/2019,Milton Keynes Dons,Coventry,0,0
+E2,19/10/2019,Rotherham,Oxford,1,2
+E2,19/10/2019,Wycombe,Sunderland,1,0
+E2,20/10/2019,Accrington,Ipswich,2,0
+E2,22/10/2019,Blackpool,Wycombe,1,1
+E2,22/10/2019,Bristol Rvs,Bolton,0,2
+E2,22/10/2019,Burton,AFC Wimbledon,1,0
+E2,22/10/2019,Portsmouth,Lincoln,1,0
+E2,22/10/2019,Rochdale,Milton Keynes Dons,2,0
+E2,22/10/2019,Shrewsbury,Gillingham,1,1
+E2,22/10/2019,Southend,Doncaster,1,7
+E2,22/10/2019,Sunderland,Tranmere,5,0
+E2,23/10/2019,Coventry,Fleetwood Town,2,1
+E2,23/10/2019,Ipswich,Rotherham,0,2
+E2,23/10/2019,Peterboro,Accrington,4,0
+E2,26/10/2019,Accrington,Gillingham,0,1
+E2,26/10/2019,Bristol Rvs,Portsmouth,2,2
+E2,26/10/2019,Burton,Blackpool,0,0
+E2,26/10/2019,Fleetwood Town,Milton Keynes Dons,1,0
+E2,26/10/2019,Oxford,Rochdale,3,0
+E2,26/10/2019,Peterboro,Coventry,2,2
+E2,26/10/2019,Rotherham,Wycombe,0,1
+E2,26/10/2019,Shrewsbury,Sunderland,1,0
+E2,26/10/2019,Southend,Ipswich,1,3
+E2,02/11/2019,AFC Wimbledon,Lincoln,1,1
+E2,02/11/2019,Blackpool,Peterboro,4,3
+E2,02/11/2019,Bolton,Fleetwood Town,2,1
+E2,02/11/2019,Coventry,Accrington,0,0
+E2,02/11/2019,Doncaster,Burton,2,2
+E2,02/11/2019,Gillingham,Rotherham,0,3
+E2,02/11/2019,Milton Keynes Dons,Tranmere,1,3
+E2,02/11/2019,Portsmouth,Oxford,1,1
+E2,02/11/2019,Rochdale,Bristol Rvs,1,2
+E2,02/11/2019,Sunderland,Southend,1,0
+E2,02/11/2019,Wycombe,Shrewsbury,1,0
+E2,05/11/2019,Portsmouth,Southend,4,1
+E2,05/11/2019,Rochdale,Ipswich,0,1
+E2,05/11/2019,Shrewsbury,Peterboro,1,0
+E2,16/11/2019,Blackpool,AFC Wimbledon,2,0
+E2,16/11/2019,Bolton,Milton Keynes Dons,1,0
+E2,16/11/2019,Coventry,Rochdale,2,1
+E2,16/11/2019,Gillingham,Lincoln,1,0
+E2,16/11/2019,Rotherham,Accrington,1,0
+E2,17/11/2019,Tranmere,Wycombe,0,2
+E2,23/11/2019,Accrington,Bolton,7,1
+E2,23/11/2019,AFC Wimbledon,Gillingham,1,0
+E2,23/11/2019,Fleetwood Town,Tranmere,2,1
+E2,23/11/2019,Ipswich,Blackpool,2,2
+E2,23/11/2019,Milton Keynes Dons,Rotherham,2,3
+E2,23/11/2019,Peterboro,Burton,1,0
+E2,23/11/2019,Rochdale,Portsmouth,0,3
+E2,23/11/2019,Shrewsbury,Bristol Rvs,3,4
+E2,23/11/2019,Southend,Oxford,0,4
+E2,23/11/2019,Sunderland,Coventry,1,1
+E2,23/11/2019,Wycombe,Doncaster,1,0
+E2,26/11/2019,Ipswich,Wycombe,0,0
+E2,26/11/2019,Portsmouth,Rotherham,3,2
+E2,26/11/2019,Sunderland,Burton,1,2
+E2,03/12/2019,Burton,Southend,1,1
+E2,07/12/2019,Blackpool,Fleetwood Town,3,1
+E2,07/12/2019,Bolton,AFC Wimbledon,2,2
+E2,07/12/2019,Bristol Rvs,Southend,4,2
+E2,07/12/2019,Burton,Lincoln,0,2
+E2,07/12/2019,Coventry,Ipswich,1,1
+E2,07/12/2019,Doncaster,Milton Keynes Dons,1,1
+E2,07/12/2019,Gillingham,Sunderland,1,0
+E2,07/12/2019,Oxford,Shrewsbury,0,0
+E2,07/12/2019,Portsmouth,Peterboro,2,2
+E2,07/12/2019,Rotherham,Rochdale,0,1
+E2,07/12/2019,Tranmere,Accrington,1,1
+E2,14/12/2019,Accrington,Portsmouth,4,1
+E2,14/12/2019,AFC Wimbledon,Doncaster,2,1
+E2,14/12/2019,Fleetwood Town,Gillingham,1,1
+E2,14/12/2019,Ipswich,Bristol Rvs,1,2
+E2,14/12/2019,Lincoln,Tranmere,1,0
+E2,14/12/2019,Milton Keynes Dons,Oxford,1,0
+E2,14/12/2019,Peterboro,Bolton,1,0
+E2,14/12/2019,Shrewsbury,Coventry,2,1
+E2,14/12/2019,Southend,Rotherham,2,2
+E2,14/12/2019,Sunderland,Blackpool,1,1
+E2,14/12/2019,Wycombe,Burton,2,0
+E2,21/12/2019,Gillingham,Milton Keynes Dons,3,1
+E2,21/12/2019,Blackpool,Shrewsbury,0,1
+E2,21/12/2019,Bolton,Southend,3,2
+E2,21/12/2019,Bristol Rvs,Peterboro,0,0
+E2,21/12/2019,Burton,Rochdale,3,1
+E2,21/12/2019,Coventry,Lincoln,1,0
+E2,21/12/2019,Doncaster,Accrington,1,1
+E2,21/12/2019,Oxford,Wycombe,1,0
+E2,21/12/2019,Portsmouth,Ipswich,1,0
+E2,21/12/2019,Rotherham,Fleetwood Town,2,2
+E2,21/12/2019,Tranmere,AFC Wimbledon,1,0
+E2,26/12/2019,Blackpool,Accrington,0,1
+E2,26/12/2019,Bristol Rvs,AFC Wimbledon,1,2
+E2,26/12/2019,Burton,Tranmere,4,2
+E2,26/12/2019,Ipswich,Gillingham,0,0
+E2,26/12/2019,Oxford,Lincoln,1,0
+E2,26/12/2019,Peterboro,Doncaster,0,3
+E2,26/12/2019,Portsmouth,Wycombe,2,0
+E2,26/12/2019,Rochdale,Fleetwood Town,2,3
+E2,26/12/2019,Shrewsbury,Rotherham,1,2
+E2,26/12/2019,Southend,Milton Keynes Dons,2,2
+E2,26/12/2019,Sunderland,Bolton,0,0
+E2,29/12/2019,Gillingham,Rochdale,1,0
+E2,29/12/2019,Accrington,Burton,2,0
+E2,29/12/2019,AFC Wimbledon,Oxford,1,2
+E2,29/12/2019,Bolton,Shrewsbury,1,1
+E2,29/12/2019,Doncaster,Sunderland,1,2
+E2,29/12/2019,Fleetwood Town,Bristol Rvs,0,0
+E2,29/12/2019,Lincoln,Ipswich,5,3
+E2,29/12/2019,Milton Keynes Dons,Portsmouth,3,1
+E2,29/12/2019,Rotherham,Peterboro,4,0
+E2,29/12/2019,Tranmere,Blackpool,1,1
+E2,29/12/2019,Wycombe,Coventry,1,4
+E2,01/01/2020,Accrington,Rochdale,1,2
+E2,01/01/2020,AFC Wimbledon,Southend,1,1
+E2,01/01/2020,Bolton,Burton,3,4
+E2,01/01/2020,Doncaster,Oxford,1,0
+E2,01/01/2020,Fleetwood Town,Sunderland,1,1
+E2,01/01/2020,Gillingham,Portsmouth,1,1
+E2,01/01/2020,Lincoln,Peterboro,2,1
+E2,01/01/2020,Milton Keynes Dons,Bristol Rvs,3,0
+E2,01/01/2020,Rotherham,Blackpool,2,1
+E2,01/01/2020,Tranmere,Coventry,1,4
+E2,01/01/2020,Wycombe,Ipswich,1,1
+E2,04/01/2020,Sunderland,Lincoln,3,1
+E2,07/01/2020,Doncaster,Shrewsbury,2,0
+E2,11/01/2020,Bristol Rvs,Doncaster,0,2
+E2,11/01/2020,Burton,Fleetwood Town,1,0
+E2,11/01/2020,Coventry,Milton Keynes Dons,1,1
+E2,11/01/2020,Ipswich,Accrington,4,1
+E2,11/01/2020,Oxford,Rotherham,1,3
+E2,11/01/2020,Peterboro,Gillingham,0,0
+E2,11/01/2020,Portsmouth,AFC Wimbledon,2,1
+E2,11/01/2020,Rochdale,Bolton,2,0
+E2,11/01/2020,Shrewsbury,Lincoln,1,1
+E2,11/01/2020,Southend,Tranmere,0,0
+E2,11/01/2020,Sunderland,Wycombe,4,0
+E2,14/01/2020,Burton,Milton Keynes Dons,1,0
+E2,14/01/2020,Lincoln,Bolton,5,1
+E2,14/01/2020,Oxford,Ipswich,0,0
+E2,18/01/2020,Accrington,Southend,1,2
+E2,18/01/2020,AFC Wimbledon,Peterboro,1,0
+E2,18/01/2020,Bolton,Portsmouth,0,1
+E2,18/01/2020,Doncaster,Coventry,0,1
+E2,18/01/2020,Fleetwood Town,Shrewsbury,2,2
+E2,18/01/2020,Gillingham,Oxford,1,1
+E2,18/01/2020,Lincoln,Blackpool,1,0
+E2,18/01/2020,Milton Keynes Dons,Sunderland,0,1
+E2,18/01/2020,Rotherham,Bristol Rvs,3,0
+E2,18/01/2020,Tranmere,Ipswich,1,2
+E2,18/01/2020,Wycombe,Rochdale,2,1
+E2,21/01/2020,Peterboro,Wycombe,4,0
+E2,24/01/2020,Sunderland,Doncaster,0,0
+E2,25/01/2020,Bristol Rvs,Fleetwood Town,0,0
+E2,25/01/2020,Burton,Accrington,1,1
+E2,25/01/2020,Ipswich,Lincoln,1,0
+E2,25/01/2020,Peterboro,Rotherham,2,1
+E2,25/01/2020,Rochdale,Gillingham,2,2
+E2,28/01/2020,Accrington,Peterboro,0,2
+E2,28/01/2020,AFC Wimbledon,Burton,2,2
+E2,28/01/2020,Doncaster,Southend,3,1
+E2,28/01/2020,Fleetwood Town,Coventry,0,0
+E2,28/01/2020,Lincoln,Portsmouth,0,2
+E2,28/01/2020,Milton Keynes Dons,Rochdale,2,1
+E2,28/01/2020,Rotherham,Ipswich,1,0
+E2,28/01/2020,Wycombe,Blackpool,2,1
+E2,28/01/2020,Bolton,Bristol Rvs,1,1
+E2,29/01/2020,Gillingham,Shrewsbury,2,0
+E2,29/01/2020,Tranmere,Sunderland,0,1
+E2,01/02/2020,Accrington,AFC Wimbledon,2,1
+E2,01/02/2020,Bolton,Tranmere,2,0
+E2,01/02/2020,Bristol Rvs,Coventry,1,2
+E2,01/02/2020,Fleetwood Town,Doncaster,2,1
+E2,01/02/2020,Ipswich,Peterboro,1,4
+E2,01/02/2020,Milton Keynes Dons,Wycombe,2,0
+E2,01/02/2020,Oxford,Blackpool,2,1
+E2,01/02/2020,Portsmouth,Sunderland,2,0
+E2,01/02/2020,Rochdale,Shrewsbury,1,0
+E2,01/02/2020,Rotherham,Burton,3,2
+E2,01/02/2020,Southend,Lincoln,2,1
+E2,04/02/2020,Tranmere,Doncaster,0,3
+E2,07/02/2020,Lincoln,Rotherham,0,1
+E2,08/02/2020,AFC Wimbledon,Fleetwood Town,1,2
+E2,08/02/2020,Blackpool,Southend,2,1
+E2,08/02/2020,Burton,Gillingham,0,0
+E2,08/02/2020,Coventry,Bolton,2,1
+E2,08/02/2020,Doncaster,Rochdale,1,1
+E2,08/02/2020,Peterboro,Oxford,4,0
+E2,08/02/2020,Shrewsbury,Milton Keynes Dons,1,1
+E2,08/02/2020,Sunderland,Ipswich,1,0
+E2,08/02/2020,Tranmere,Portsmouth,0,2
+E2,08/02/2020,Wycombe,Bristol Rvs,3,1
+E2,11/02/2020,AFC Wimbledon,Ipswich,0,0
+E2,11/02/2020,Blackpool,Gillingham,2,3
+E2,11/02/2020,Burton,Oxford,2,2
+E2,11/02/2020,Coventry,Portsmouth,1,0
+E2,11/02/2020,Doncaster,Bolton,2,1
+E2,11/02/2020,Lincoln,Milton Keynes Dons,1,1
+E2,11/02/2020,Peterboro,Southend,4,0
+E2,11/02/2020,Shrewsbury,Accrington,0,2
+E2,11/02/2020,Sunderland,Rochdale,3,0
+E2,11/02/2020,Tranmere,Bristol Rvs,0,0
+E2,11/02/2020,Wycombe,Fleetwood Town,0,1
+E2,15/02/2020,Accrington,Lincoln,4,3
+E2,15/02/2020,Bolton,Wycombe,0,2
+E2,15/02/2020,Bristol Rvs,Blackpool,2,1
+E2,15/02/2020,Fleetwood Town,Peterboro,2,1
+E2,15/02/2020,Gillingham,Doncaster,2,1
+E2,15/02/2020,Ipswich,Burton,4,1
+E2,15/02/2020,Oxford,Sunderland,0,1
+E2,15/02/2020,Portsmouth,Shrewsbury,2,0
+E2,15/02/2020,Rotherham,AFC Wimbledon,2,2
+E2,15/02/2020,Southend,Coventry,0,2
+E2,18/02/2020,Oxford,AFC Wimbledon,5,0
+E2,18/02/2020,Southend,Gillingham,0,1
+E2,22/02/2020,Accrington,Rotherham,1,2
+E2,22/02/2020,AFC Wimbledon,Blackpool,0,0
+E2,22/02/2020,Fleetwood Town,Portsmouth,1,0
+E2,22/02/2020,Ipswich,Oxford,0,1
+E2,22/02/2020,Lincoln,Gillingham,0,0
+E2,22/02/2020,Milton Keynes Dons,Bolton,1,0
+E2,22/02/2020,Rochdale,Coventry,1,2
+E2,22/02/2020,Shrewsbury,Doncaster,1,0
+E2,22/02/2020,Southend,Burton,2,3
+E2,22/02/2020,Sunderland,Bristol Rvs,3,0
+E2,22/02/2020,Wycombe,Tranmere,3,1
+E2,25/02/2020,Blackpool,Bolton,2,1
+E2,25/02/2020,Coventry,Rotherham,1,1
+E2,25/02/2020,Oxford,Accrington,3,0
+E2,25/02/2020,Portsmouth,Milton Keynes Dons,3,1
+E2,25/02/2020,Shrewsbury,Tranmere,2,3
+E2,25/02/2020,Sunderland,Fleetwood Town,1,1
+E2,28/02/2020,Portsmouth,Rochdale,3,0
+E2,29/02/2020,Blackpool,Ipswich,2,1
+E2,29/02/2020,Bolton,Accrington,0,0
+E2,29/02/2020,Bristol Rvs,Shrewsbury,0,1
+E2,29/02/2020,Burton,Peterboro,1,1
+E2,29/02/2020,Doncaster,Wycombe,3,1
+E2,29/02/2020,Gillingham,AFC Wimbledon,1,2
+E2,29/02/2020,Oxford,Southend,2,1
+E2,29/02/2020,Rotherham,Milton Keynes Dons,1,1
+E2,01/03/2020,Coventry,Sunderland,1,0
+E2,03/03/2020,Ipswich,Fleetwood Town,0,1
+E2,07/03/2020,Accrington,Tranmere,1,2
+E2,07/03/2020,AFC Wimbledon,Bolton,0,0
+E2,07/03/2020,Fleetwood Town,Blackpool,0,0
+E2,07/03/2020,Ipswich,Coventry,0,1
+E2,07/03/2020,Lincoln,Burton,3,2
+E2,07/03/2020,Milton Keynes Dons,Doncaster,0,1
+E2,07/03/2020,Peterboro,Portsmouth,2,0
+E2,07/03/2020,Rochdale,Rotherham,3,1
+E2,07/03/2020,Shrewsbury,Oxford,2,3
+E2,07/03/2020,Southend,Bristol Rvs,3,1
+E2,07/03/2020,Sunderland,Gillingham,2,2
+E2,10/03/2020,Blackpool,Tranmere,1,2
+E2,10/03/2020,Bristol Rvs,Sunderland,2,0
+E2,10/03/2020,Burton,Bolton,2,2
+E2,10/03/2020,Portsmouth,Fleetwood Town,2,2
+E1,10/08/02,Burnley,Brighton,1,3
+E1,10/08/02,Coventry,Sheffield United,2,1
+E1,10/08/02,Derby,Reading,3,0
+E1,10/08/02,Leicester,Watford,2,0
+E1,10/08/02,Millwall,Rotherham,0,6
+E1,10/08/02,Norwich,Grimsby,4,0
+E1,10/08/02,Portsmouth,Nott'm Forest,2,0
+E1,10/08/02,Preston,Crystal Palace,1,2
+E1,10/08/02,Sheffield Weds,Stoke,0,0
+E1,10/08/02,Walsall,Ipswich,0,2
+E1,10/08/02,Wimbledon,Gillingham,0,1
+E1,11/08/02,Bradford,Wolves,0,0
+E1,13/08/02,Brighton,Coventry,0,0
+E1,13/08/02,Crystal Palace,Bradford,1,1
+E1,13/08/02,Gillingham,Derby,1,0
+E1,13/08/02,Grimsby,Wimbledon,0,0
+E1,13/08/02,Reading,Sheffield Weds,2,1
+E1,13/08/02,Rotherham,Norwich,1,1
+E1,13/08/02,Sheffield United,Portsmouth,1,1
+E1,13/08/02,Watford,Millwall,0,0
+E1,14/08/02,Nott'm Forest,Preston,2,2
+E1,14/08/02,Stoke,Leicester,0,1
+E1,14/08/02,Wolves,Walsall,3,1
+E1,17/08/02,Brighton,Norwich,0,2
+E1,17/08/02,Crystal Palace,Portsmouth,2,3
+E1,17/08/02,Gillingham,Millwall,1,0
+E1,17/08/02,Grimsby,Derby,1,2
+E1,17/08/02,Nott'm Forest,Sheffield Weds,4,0
+E1,17/08/02,Reading,Coventry,1,2
+E1,17/08/02,Rotherham,Preston,0,0
+E1,17/08/02,Sheffield United,Walsall,1,1
+E1,17/08/02,Stoke,Bradford,2,1
+E1,17/08/02,Watford,Wimbledon,3,2
+E1,17/08/02,Wolves,Burnley,3,0
+E1,18/08/02,Ipswich,Leicester,6,1
+E1,24/08/02,Bradford,Grimsby,0,0
+E1,24/08/02,Burnley,Sheffield United,0,1
+E1,24/08/02,Coventry,Crystal Palace,1,0
+E1,24/08/02,Derby,Wolves,1,4
+E1,24/08/02,Leicester,Reading,2,1
+E1,24/08/02,Millwall,Ipswich,1,1
+E1,24/08/02,Norwich,Gillingham,1,0
+E1,24/08/02,Portsmouth,Watford,3,0
+E1,24/08/02,Preston,Stoke,4,3
+E1,24/08/02,Sheffield Weds,Rotherham,1,2
+E1,24/08/02,Walsall,Nott'm Forest,2,1
+E1,24/08/02,Wimbledon,Brighton,1,0
+E1,26/08/02,Brighton,Walsall,0,2
+E1,26/08/02,Gillingham,Preston,1,1
+E1,26/08/02,Grimsby,Portsmouth,0,1
+E1,26/08/02,Ipswich,Bradford,1,2
+E1,26/08/02,Rotherham,Derby,2,1
+E1,26/08/02,Stoke,Norwich,1,1
+E1,26/08/02,Watford,Coventry,5,2
+E1,27/08/02,Crystal Palace,Leicester,0,0
+E1,27/08/02,Reading,Burnley,3,0
+E1,27/08/02,Sheffield United,Millwall,3,1
+E1,27/08/02,Wolves,Sheffield Weds,2,2
+E1,28/08/02,Nott'm Forest,Wimbledon,2,0
+E1,31/08/02,Bradford,Rotherham,4,2
+E1,31/08/02,Burnley,Crystal Palace,0,0
+E1,31/08/02,Coventry,Nott'm Forest,0,1
+E1,31/08/02,Derby,Stoke,2,0
+E1,31/08/02,Leicester,Gillingham,2,0
+E1,31/08/02,Millwall,Grimsby,2,0
+E1,31/08/02,Norwich,Watford,4,0
+E1,31/08/02,Portsmouth,Brighton,4,2
+E1,31/08/02,Walsall,Reading,0,2
+E1,31/08/02,Wimbledon,Wolves,3,2
+E1,01/09/02,Preston,Ipswich,0,0
+E1,01/09/02,Sheffield Weds,Sheffield United,2,0
+E1,07/09/02,Derby,Burnley,1,2
+E1,07/09/02,Gillingham,Portsmouth,1,3
+E1,07/09/02,Millwall,Brighton,1,0
+E1,07/09/02,Norwich,Sheffield United,2,3
+E1,07/09/02,Rotherham,Reading,0,0
+E1,07/09/02,Watford,Walsall,2,0
+E1,07/09/02,Wimbledon,Leicester,2,3
+E1,14/09/02,Brighton,Gillingham,2,4
+E1,14/09/02,Burnley,Stoke,2,1
+E1,14/09/02,Coventry,Grimsby,3,2
+E1,14/09/02,Crystal Palace,Wolves,4,2
+E1,14/09/02,Leicester,Derby,3,1
+E1,14/09/02,Nott'm Forest,Watford,0,1
+E1,14/09/02,Portsmouth,Millwall,1,0
+E1,14/09/02,Preston,Sheffield Weds,2,2
+E1,14/09/02,Reading,Wimbledon,0,1
+E1,14/09/02,Sheffield United,Rotherham,1,0
+E1,14/09/02,Walsall,Bradford,0,1
+E1,15/09/02,Ipswich,Norwich,1,1
+E1,17/09/02,Brighton,Stoke,1,2
+E1,17/09/02,Burnley,Millwall,2,2
+E1,17/09/02,Crystal Palace,Derby,0,1
+E1,17/09/02,Leicester,Bradford,4,0
+E1,17/09/02,Portsmouth,Wimbledon,4,1
+E1,17/09/02,Preston,Watford,1,1
+E1,17/09/02,Sheffield United,Grimsby,2,1
+E1,17/09/02,Walsall,Rotherham,3,4
+E1,18/09/02,Coventry,Sheffield Weds,1,1
+E1,18/09/02,Nott'm Forest,Gillingham,4,1
+E1,18/09/02,Reading,Norwich,0,2
+E1,21/09/02,Bradford,Burnley,2,2
+E1,21/09/02,Derby,Preston,0,2
+E1,21/09/02,Gillingham,Sheffield United,1,1
+E1,21/09/02,Grimsby,Nott'm Forest,0,3
+E1,21/09/02,Millwall,Walsall,0,3
+E1,21/09/02,Norwich,Portsmouth,1,0
+E1,21/09/02,Rotherham,Brighton,1,0
+E1,21/09/02,Sheffield Weds,Leicester,0,0
+E1,21/09/02,Watford,Crystal Palace,3,3
+E1,21/09/02,Wimbledon,Coventry,0,1
+E1,21/09/02,Wolves,Reading,0,1
+E1,22/09/02,Stoke,Ipswich,2,1
+E1,24/09/02,Bradford,Coventry,1,1
+E1,24/09/02,Wolves,Preston,4,0
+E1,25/09/02,Sheffield Weds,Crystal Palace,0,0
+E1,25/09/02,Stoke,Nott'm Forest,2,2
+E1,28/09/02,Brighton,Grimsby,1,2
+E1,28/09/02,Burnley,Wimbledon,1,0
+E1,28/09/02,Coventry,Millwall,2,3
+E1,28/09/02,Ipswich,Derby,0,1
+E1,28/09/02,Leicester,Wolves,1,0
+E1,28/09/02,Nott'm Forest,Rotherham,3,2
+E1,28/09/02,Portsmouth,Bradford,3,0
+E1,28/09/02,Preston,Norwich,1,2
+E1,28/09/02,Reading,Stoke,1,1
+E1,28/09/02,Sheffield United,Watford,1,2
+E1,28/09/02,Walsall,Sheffield Weds,1,0
+E1,29/09/02,Crystal Palace,Gillingham,2,2
+E1,05/10/02,Bradford,Preston,1,1
+E1,05/10/02,Derby,Walsall,2,2
+E1,05/10/02,Gillingham,Coventry,0,2
+E1,05/10/02,Grimsby,Reading,0,3
+E1,05/10/02,Millwall,Nott'm Forest,1,2
+E1,05/10/02,Norwich,Leicester,0,0
+E1,05/10/02,Rotherham,Portsmouth,2,3
+E1,05/10/02,Sheffield Weds,Burnley,1,3
+E1,05/10/02,Stoke,Crystal Palace,1,1
+E1,05/10/02,Watford,Brighton,1,0
+E1,05/10/02,Wolves,Sheffield United,1,3
+E1,06/10/02,Wimbledon,Ipswich,0,1
+E1,08/10/02,Grimsby,Ipswich,3,0
+E1,12/10/02,Bradford,Derby,0,0
+E1,12/10/02,Burnley,Walsall,2,1
+E1,12/10/02,Ipswich,Sheffield Weds,2,1
+E1,12/10/02,Millwall,Wimbledon,1,1
+E1,12/10/02,Rotherham,Gillingham,1,1
+E1,12/10/02,Watford,Grimsby,2,0
+E1,19/10/02,Brighton,Sheffield United,2,4
+E1,19/10/02,Gillingham,Watford,3,0
+E1,19/10/02,Grimsby,Rotherham,0,0
+E1,19/10/02,Leicester,Burnley,0,1
+E1,19/10/02,Norwich,Millwall,3,1
+E1,19/10/02,Portsmouth,Coventry,1,1
+E1,19/10/02,Reading,Ipswich,3,1
+E1,19/10/02,Sheffield Weds,Bradford,2,1
+E1,19/10/02,Stoke,Wolves,0,2
+E1,19/10/02,Walsall,Preston,3,3
+E1,19/10/02,Wimbledon,Crystal Palace,2,2
+E1,20/10/02,Derby,Nott'm Forest,0,0
+E1,22/10/02,Ipswich,Burnley,2,2
+E1,23/10/02,Coventry,Norwich,1,1
+E1,23/10/02,Sheffield United,Stoke,2,1
+E1,26/10/02,Bradford,Norwich,2,1
+E1,26/10/02,Burnley,Portsmouth,0,3
+E1,26/10/02,Coventry,Walsall,0,0
+E1,26/10/02,Crystal Palace,Brighton,5,0
+E1,26/10/02,Ipswich,Gillingham,0,1
+E1,26/10/02,Millwall,Derby,3,0
+E1,26/10/02,Nott'm Forest,Leicester,2,2
+E1,26/10/02,Preston,Reading,1,0
+E1,26/10/02,Rotherham,Stoke,4,0
+E1,26/10/02,Sheffield United,Wimbledon,1,1
+E1,26/10/02,Watford,Sheffield Weds,1,0
+E1,26/10/02,Wolves,Grimsby,4,1
+E1,29/10/02,Gillingham,Wolves,0,4
+E1,29/10/02,Grimsby,Burnley,6,5
+E1,29/10/02,Leicester,Coventry,2,1
+E1,29/10/02,Norwich,Nott'm Forest,0,0
+E1,29/10/02,Portsmouth,Preston,3,2
+E1,29/10/02,Reading,Bradford,1,0
+E1,29/10/02,Walsall,Crystal Palace,3,4
+E1,29/10/02,Wimbledon,Rotherham,2,1
+E1,30/10/02,Derby,Sheffield United,2,1
+E1,30/10/02,Sheffield Weds,Millwall,0,1
+E1,30/10/02,Stoke,Watford,1,2
+E1,02/11/02,Brighton,Bradford,3,2
+E1,02/11/02,Coventry,Rotherham,2,1
+E1,02/11/02,Grimsby,Gillingham,1,1
+E1,02/11/02,Nott'm Forest,Sheffield United,3,0
+E1,02/11/02,Portsmouth,Leicester,0,2
+E1,02/11/02,Preston,Burnley,3,1
+E1,02/11/02,Reading,Millwall,2,0
+E1,02/11/02,Sheffield Weds,Derby,1,3
+E1,02/11/02,Walsall,Stoke,4,2
+E1,02/11/02,Watford,Wolves,1,1
+E1,02/11/02,Wimbledon,Norwich,4,2
+E1,03/11/02,Ipswich,Crystal Palace,1,2
+E1,06/11/02,Wolves,Portsmouth,1,1
+E1,09/11/02,Bradford,Wimbledon,3,5
+E1,09/11/02,Burnley,Coventry,3,1
+E1,09/11/02,Crystal Palace,Nott'm Forest,0,0
+E1,09/11/02,Derby,Portsmouth,1,2
+E1,09/11/02,Gillingham,Reading,0,1
+E1,09/11/02,Leicester,Walsall,2,0
+E1,09/11/02,Millwall,Preston,2,1
+E1,09/11/02,Norwich,Sheffield Weds,3,0
+E1,09/11/02,Rotherham,Watford,2,1
+E1,09/11/02,Sheffield United,Ipswich,0,0
+E1,09/11/02,Stoke,Grimsby,1,2
+E1,11/11/02,Wolves,Brighton,1,1
+E1,16/11/02,Brighton,Derby,1,0
+E1,16/11/02,Coventry,Wolves,0,2
+E1,16/11/02,Gillingham,Sheffield Weds,1,1
+E1,16/11/02,Grimsby,Preston,3,3
+E1,16/11/02,Millwall,Leicester,2,2
+E1,16/11/02,Norwich,Crystal Palace,2,0
+E1,16/11/02,Nott'm Forest,Bradford,3,0
+E1,16/11/02,Portsmouth,Stoke,3,0
+E1,16/11/02,Rotherham,Burnley,0,0
+E1,16/11/02,Wimbledon,Walsall,3,2
+E1,17/11/02,Watford,Ipswich,0,2
+E1,23/11/02,Bradford,Sheffield United,0,5
+E1,23/11/02,Burnley,Norwich,2,0
+E1,23/11/02,Crystal Palace,Grimsby,2,0
+E1,23/11/02,Ipswich,Coventry,2,1
+E1,23/11/02,Leicester,Rotherham,2,1
+E1,23/11/02,Preston,Brighton,2,2
+E1,23/11/02,Reading,Watford,1,0
+E1,23/11/02,Sheffield Weds,Portsmouth,1,3
+E1,23/11/02,Stoke,Millwall,0,1
+E1,23/11/02,Walsall,Gillingham,1,0
+E1,23/11/02,Wolves,Nott'm Forest,2,1
+E1,25/11/02,Derby,Wimbledon,3,2
+E1,26/11/02,Crystal Palace,Reading,0,1
+E1,26/11/02,Preston,Leicester,2,0
+E1,27/11/02,Nott'm Forest,Brighton,3,2
+E1,30/11/02,Brighton,Reading,0,1
+E1,30/11/02,Coventry,Preston,1,2
+E1,30/11/02,Gillingham,Stoke,1,1
+E1,30/11/02,Grimsby,Leicester,1,2
+E1,30/11/02,Millwall,Bradford,1,0
+E1,30/11/02,Norwich,Derby,1,0
+E1,30/11/02,Nott'm Forest,Ipswich,2,1
+E1,30/11/02,Portsmouth,Walsall,3,2
+E1,30/11/02,Rotherham,Wolves,0,0
+E1,30/11/02,Sheffield United,Crystal Palace,2,1
+E1,30/11/02,Watford,Burnley,2,1
+E1,30/11/02,Wimbledon,Sheffield Weds,3,0
+E1,07/12/02,Bradford,Gillingham,1,3
+E1,07/12/02,Burnley,Nott'm Forest,1,0
+E1,07/12/02,Crystal Palace,Millwall,1,0
+E1,07/12/02,Derby,Watford,3,0
+E1,07/12/02,Ipswich,Rotherham,1,2
+E1,07/12/02,Leicester,Sheffield United,0,0
+E1,07/12/02,Preston,Wimbledon,3,5
+E1,07/12/02,Reading,Portsmouth,0,0
+E1,07/12/02,Sheffield Weds,Brighton,1,1
+E1,07/12/02,Stoke,Coventry,1,2
+E1,07/12/02,Walsall,Grimsby,3,1
+E1,07/12/02,Wolves,Norwich,1,0
+E1,10/12/02,Brighton,Ipswich,1,1
+E1,14/12/02,Bradford,Nott'm Forest,1,0
+E1,14/12/02,Burnley,Rotherham,2,6
+E1,14/12/02,Crystal Palace,Norwich,2,0
+E1,14/12/02,Derby,Brighton,1,0
+E1,14/12/02,Ipswich,Watford,4,2
+E1,14/12/02,Leicester,Millwall,4,1
+E1,14/12/02,Preston,Grimsby,3,0
+E1,14/12/02,Reading,Sheffield United,0,2
+E1,14/12/02,Sheffield Weds,Gillingham,0,2
+E1,14/12/02,Stoke,Portsmouth,1,1
+E1,14/12/02,Walsall,Wimbledon,2,0
+E1,14/12/02,Wolves,Coventry,0,2
+E1,20/12/02,Brighton,Leicester,0,1
+E1,21/12/02,Coventry,Derby,3,0
+E1,21/12/02,Gillingham,Burnley,4,2
+E1,21/12/02,Grimsby,Sheffield Weds,2,0
+E1,21/12/02,Millwall,Wolves,1,1
+E1,21/12/02,Norwich,Walsall,2,1
+E1,21/12/02,Nott'm Forest,Reading,2,0
+E1,21/12/02,Portsmouth,Ipswich,1,1
+E1,21/12/02,Sheffield United,Preston,1,0
+E1,21/12/02,Watford,Bradford,1,0
+E1,21/12/02,Wimbledon,Stoke,1,1
+E1,22/12/02,Rotherham,Crystal Palace,1,3
+E1,26/12/02,Bradford,Stoke,4,2
+E1,26/12/02,Burnley,Wolves,2,1
+E1,26/12/02,Coventry,Reading,2,0
+E1,26/12/02,Derby,Grimsby,1,3
+E1,26/12/02,Leicester,Ipswich,1,2
+E1,26/12/02,Millwall,Gillingham,2,2
+E1,26/12/02,Norwich,Brighton,0,1
+E1,26/12/02,Portsmouth,Crystal Palace,1,1
+E1,26/12/02,Preston,Rotherham,0,2
+E1,26/12/02,Sheffield Weds,Nott'm Forest,2,0
+E1,26/12/02,Walsall,Sheffield United,0,1
+E1,26/12/02,Wimbledon,Watford,0,0
+E1,28/12/02,Brighton,Burnley,2,2
+E1,28/12/02,Crystal Palace,Preston,2,0
+E1,28/12/02,Grimsby,Norwich,1,1
+E1,28/12/02,Ipswich,Walsall,3,2
+E1,28/12/02,Nott'm Forest,Portsmouth,1,2
+E1,28/12/02,Reading,Derby,2,1
+E1,28/12/02,Rotherham,Millwall,1,3
+E1,28/12/02,Sheffield United,Coventry,0,0
+E1,28/12/02,Stoke,Sheffield Weds,3,2
+E1,28/12/02,Watford,Leicester,1,2
+E1,28/12/02,Wolves,Bradford,1,2
+E1,01/01/03,Crystal Palace,Coventry,1,1
+E1,01/01/03,Ipswich,Millwall,4,1
+E1,01/01/03,Nott'm Forest,Walsall,1,1
+E1,01/01/03,Rotherham,Sheffield Weds,0,2
+E1,01/01/03,Stoke,Preston,2,1
+E1,01/01/03,Watford,Portsmouth,2,2
+E1,01/01/03,Wolves,Derby,1,1
+E1,11/01/03,Burnley,Ipswich,1,1
+E1,11/01/03,Coventry,Brighton,0,0
+E1,11/01/03,Derby,Gillingham,1,1
+E1,11/01/03,Leicester,Stoke,0,0
+E1,11/01/03,Millwall,Watford,4,0
+E1,11/01/03,Norwich,Rotherham,1,1
+E1,11/01/03,Sheffield Weds,Reading,3,2
+E1,11/01/03,Walsall,Wolves,0,1
+E1,11/01/03,Wimbledon,Grimsby,3,3
+E1,13/01/03,Portsmouth,Sheffield United,1,2
+E1,17/01/03,Sheffield United,Sheffield Weds,3,1
+E1,18/01/03,Brighton,Portsmouth,1,1
+E1,18/01/03,Crystal Palace,Burnley,1,1
+E1,18/01/03,Gillingham,Leicester,3,2
+E1,18/01/03,Grimsby,Millwall,0,2
+E1,18/01/03,Ipswich,Preston,3,0
+E1,18/01/03,Nott'm Forest,Coventry,1,1
+E1,18/01/03,Reading,Walsall,0,0
+E1,18/01/03,Rotherham,Bradford,3,2
+E1,18/01/03,Stoke,Derby,1,3
+E1,18/01/03,Wolves,Wimbledon,1,1
+E1,19/01/03,Watford,Norwich,2,1
+E1,25/01/03,Grimsby,Bradford,1,2
+E1,25/01/03,Preston,Nott'm Forest,1,1
+E1,28/01/03,Reading,Leicester,1,3
+E1,01/02/03,Bradford,Ipswich,2,0
+E1,01/02/03,Burnley,Reading,2,5
+E1,01/02/03,Coventry,Watford,0,1
+E1,01/02/03,Derby,Rotherham,3,0
+E1,01/02/03,Leicester,Crystal Palace,1,0
+E1,01/02/03,Millwall,Sheffield United,1,0
+E1,01/02/03,Norwich,Stoke,2,2
+E1,01/02/03,Portsmouth,Grimsby,3,0
+E1,01/02/03,Preston,Gillingham,3,0
+E1,01/02/03,Sheffield Weds,Wolves,0,4
+E1,01/02/03,Walsall,Brighton,1,0
+E1,01/02/03,Wimbledon,Nott'm Forest,2,3
+E1,04/02/03,Brighton,Wimbledon,2,3
+E1,08/02/03,Brighton,Wolves,4,1
+E1,08/02/03,Coventry,Burnley,0,1
+E1,08/02/03,Grimsby,Stoke,2,0
+E1,08/02/03,Ipswich,Sheffield United,3,2
+E1,08/02/03,Nott'm Forest,Crystal Palace,2,1
+E1,08/02/03,Portsmouth,Derby,6,2
+E1,08/02/03,Preston,Millwall,2,1
+E1,08/02/03,Sheffield Weds,Norwich,2,2
+E1,08/02/03,Walsall,Leicester,1,4
+E1,08/02/03,Watford,Rotherham,1,2
+E1,08/02/03,Wimbledon,Bradford,2,2
+E1,10/02/03,Reading,Gillingham,2,1
+E1,15/02/03,Bradford,Brighton,0,1
+E1,15/02/03,Derby,Sheffield Weds,2,2
+E1,15/02/03,Gillingham,Grimsby,3,0
+E1,15/02/03,Millwall,Reading,0,2
+E1,15/02/03,Rotherham,Coventry,1,0
+E1,17/02/03,Leicester,Portsmouth,1,1
+E1,18/02/03,Sheffield United,Reading,1,3
+E1,19/02/03,Ipswich,Wolves,2,4
+E1,22/02/03,Brighton,Millwall,1,0
+E1,22/02/03,Burnley,Derby,2,0
+E1,22/02/03,Coventry,Bradford,0,2
+E1,22/02/03,Crystal Palace,Sheffield Weds,0,0
+E1,22/02/03,Ipswich,Grimsby,2,2
+E1,22/02/03,Leicester,Wimbledon,4,0
+E1,22/02/03,Nott'm Forest,Stoke,6,0
+E1,22/02/03,Portsmouth,Gillingham,1,0
+E1,22/02/03,Preston,Wolves,0,2
+E1,22/02/03,Reading,Rotherham,3,0
+E1,22/02/03,Sheffield United,Norwich,0,1
+E1,22/02/03,Walsall,Watford,2,0
+E1,25/02/03,Gillingham,Norwich,1,0
+E1,25/02/03,Wolves,Watford,0,0
+E1,26/02/03,Stoke,Walsall,1,0
+E1,28/02/03,Rotherham,Sheffield United,1,2
+E1,01/03/03,Bradford,Walsall,1,2
+E1,01/03/03,Derby,Leicester,1,1
+E1,01/03/03,Gillingham,Brighton,3,0
+E1,01/03/03,Grimsby,Coventry,0,2
+E1,01/03/03,Millwall,Portsmouth,0,5
+E1,01/03/03,Sheffield Weds,Preston,0,1
+E1,01/03/03,Stoke,Burnley,0,1
+E1,01/03/03,Watford,Nott'm Forest,1,1
+E1,01/03/03,Wimbledon,Reading,2,0
+E1,01/03/03,Wolves,Crystal Palace,4,0
+E1,02/03/03,Norwich,Ipswich,0,2
+E1,04/03/03,Bradford,Leicester,0,0
+E1,04/03/03,Gillingham,Nott'm Forest,1,4
+E1,04/03/03,Grimsby,Sheffield United,1,4
+E1,04/03/03,Millwall,Burnley,1,1
+E1,04/03/03,Rotherham,Walsall,0,0
+E1,04/03/03,Watford,Preston,0,1
+E1,04/03/03,Wimbledon,Portsmouth,2,1
+E1,05/03/03,Derby,Crystal Palace,0,1
+E1,05/03/03,Norwich,Reading,0,1
+E1,05/03/03,Sheffield Weds,Coventry,5,1
+E1,05/03/03,Stoke,Brighton,1,0
+E1,05/03/03,Wolves,Ipswich,1,1
+E1,08/03/03,Bradford,Crystal Palace,2,1
+E1,08/03/03,Brighton,Rotherham,2,0
+E1,08/03/03,Coventry,Wimbledon,2,2
+E1,08/03/03,Ipswich,Stoke,0,0
+E1,08/03/03,Leicester,Sheffield Weds,1,1
+E1,08/03/03,Preston,Derby,4,2
+E1,08/03/03,Walsall,Millwall,1,2
+E1,10/03/03,Nott'm Forest,Grimsby,2,2
+E1,11/03/03,Crystal Palace,Ipswich,1,1
+E1,11/03/03,Gillingham,Wimbledon,3,3
+E1,12/03/03,Portsmouth,Norwich,3,2
+E1,12/03/03,Reading,Wolves,0,1
+E1,12/03/03,Sheffield United,Burnley,4,2
+E1,15/03/03,Brighton,Nott'm Forest,1,0
+E1,15/03/03,Derby,Bradford,1,2
+E1,15/03/03,Gillingham,Rotherham,1,1
+E1,15/03/03,Grimsby,Watford,1,0
+E1,15/03/03,Leicester,Preston,2,1
+E1,15/03/03,Norwich,Coventry,2,0
+E1,15/03/03,Portsmouth,Wolves,1,0
+E1,15/03/03,Reading,Crystal Palace,2,1
+E1,15/03/03,Sheffield Weds,Ipswich,0,1
+E1,15/03/03,Stoke,Sheffield United,0,0
+E1,15/03/03,Walsall,Burnley,3,2
+E1,15/03/03,Wimbledon,Millwall,2,0
+E1,18/03/03,Bradford,Sheffield Weds,1,1
+E1,18/03/03,Burnley,Leicester,1,2
+E1,18/03/03,Crystal Palace,Wimbledon,0,1
+E1,18/03/03,Ipswich,Reading,3,1
+E1,18/03/03,Millwall,Norwich,0,2
+E1,18/03/03,Preston,Walsall,5,0
+E1,18/03/03,Rotherham,Grimsby,0,1
+E1,18/03/03,Sheffield United,Brighton,2,1
+E1,18/03/03,Watford,Gillingham,0,1
+E1,18/03/03,Wolves,Stoke,0,0
+E1,19/03/03,Coventry,Portsmouth,0,4
+E1,19/03/03,Nott'm Forest,Derby,3,0
+E1,22/03/03,Bradford,Reading,0,1
+E1,22/03/03,Burnley,Grimsby,1,1
+E1,22/03/03,Coventry,Leicester,1,2
+E1,22/03/03,Crystal Palace,Walsall,2,0
+E1,22/03/03,Ipswich,Brighton,2,2
+E1,22/03/03,Millwall,Sheffield Weds,3,0
+E1,22/03/03,Nott'm Forest,Norwich,4,0
+E1,22/03/03,Preston,Portsmouth,1,1
+E1,22/03/03,Rotherham,Wimbledon,2,1
+E1,22/03/03,Sheffield United,Derby,2,0
+E1,22/03/03,Watford,Stoke,1,2
+E1,22/03/03,Wolves,Gillingham,6,0
+E1,25/03/03,Brighton,Crystal Palace,0,0
+E1,25/03/03,Burnley,Bradford,0,2
+E1,25/03/03,Norwich,Wimbledon,1,0
+E1,25/03/03,Sheffield United,Gillingham,2,2
+E1,29/03/03,Gillingham,Ipswich,1,3
+E1,29/03/03,Norwich,Bradford,3,2
+E1,29/03/03,Sheffield Weds,Watford,2,2
+E1,04/04/03,Reading,Brighton,1,2
+E1,05/04/03,Bradford,Millwall,0,1
+E1,05/04/03,Burnley,Watford,4,7
+E1,05/04/03,Crystal Palace,Sheffield United,2,2
+E1,05/04/03,Derby,Norwich,2,1
+E1,05/04/03,Ipswich,Nott'm Forest,3,4
+E1,05/04/03,Leicester,Grimsby,2,0
+E1,05/04/03,Preston,Coventry,2,2
+E1,05/04/03,Sheffield Weds,Wimbledon,4,2
+E1,05/04/03,Stoke,Gillingham,0,0
+E1,05/04/03,Walsall,Portsmouth,1,2
+E1,05/04/03,Wolves,Rotherham,0,0
+E1,07/04/03,Wimbledon,Sheffield United,1,0
+E1,08/04/03,Burnley,Preston,2,0
+E1,08/04/03,Crystal Palace,Watford,0,1
+E1,08/04/03,Grimsby,Wolves,0,1
+E1,08/04/03,Leicester,Nott'm Forest,1,0
+E1,09/04/03,Stoke,Rotherham,2,0
+E1,11/04/03,Nott'm Forest,Wolves,2,2
+E1,12/04/03,Brighton,Preston,0,2
+E1,12/04/03,Coventry,Ipswich,2,4
+E1,12/04/03,Gillingham,Walsall,0,1
+E1,12/04/03,Grimsby,Crystal Palace,1,4
+E1,12/04/03,Millwall,Stoke,3,1
+E1,12/04/03,Norwich,Burnley,2,0
+E1,12/04/03,Portsmouth,Sheffield Weds,1,2
+E1,12/04/03,Rotherham,Leicester,1,1
+E1,12/04/03,Wimbledon,Derby,0,2
+E1,15/04/03,Portsmouth,Burnley,1,0
+E1,15/04/03,Reading,Preston,5,1
+E1,15/04/03,Sheffield United,Nott'm Forest,1,0
+E1,15/04/03,Walsall,Coventry,0,0
+E1,16/04/03,Derby,Millwall,1,2
+E1,18/04/03,Ipswich,Portsmouth,3,0
+E1,18/04/03,Reading,Nott'm Forest,1,0
+E1,19/04/03,Bradford,Watford,2,1
+E1,19/04/03,Burnley,Gillingham,2,0
+E1,19/04/03,Crystal Palace,Rotherham,0,0
+E1,19/04/03,Derby,Coventry,1,0
+E1,19/04/03,Leicester,Brighton,2,0
+E1,19/04/03,Preston,Sheffield United,2,0
+E1,19/04/03,Sheffield Weds,Grimsby,0,0
+E1,19/04/03,Stoke,Wimbledon,2,1
+E1,19/04/03,Walsall,Norwich,0,0
+E1,19/04/03,Wolves,Millwall,3,0
+E1,21/04/03,Brighton,Sheffield Weds,1,1
+E1,21/04/03,Coventry,Stoke,0,1
+E1,21/04/03,Gillingham,Bradford,1,0
+E1,21/04/03,Grimsby,Walsall,0,1
+E1,21/04/03,Millwall,Crystal Palace,3,2
+E1,21/04/03,Norwich,Wolves,0,3
+E1,21/04/03,Nott'm Forest,Burnley,2,0
+E1,21/04/03,Portsmouth,Reading,3,0
+E1,21/04/03,Rotherham,Ipswich,2,1
+E1,21/04/03,Sheffield United,Leicester,2,1
+E1,21/04/03,Watford,Derby,2,0
+E1,21/04/03,Wimbledon,Preston,2,0
+E1,26/04/03,Brighton,Watford,4,0
+E1,26/04/03,Burnley,Sheffield Weds,2,7
+E1,26/04/03,Coventry,Gillingham,0,0
+E1,26/04/03,Crystal Palace,Stoke,1,0
+E1,26/04/03,Ipswich,Wimbledon,1,5
+E1,26/04/03,Nott'm Forest,Millwall,3,3
+E1,26/04/03,Preston,Bradford,1,0
+E1,26/04/03,Reading,Grimsby,2,1
+E1,26/04/03,Sheffield United,Wolves,3,3
+E1,26/04/03,Walsall,Derby,3,2
+E1,27/04/03,Leicester,Norwich,1,1
+E1,27/04/03,Portsmouth,Rotherham,3,2
+E1,29/04/03,Sheffield United,Bradford,3,0
+E1,30/04/03,Watford,Reading,0,3
+E1,04/05/03,Bradford,Portsmouth,0,5
+E1,04/05/03,Derby,Ipswich,1,4
+E1,04/05/03,Gillingham,Crystal Palace,2,1
+E1,04/05/03,Grimsby,Brighton,2,2
+E1,04/05/03,Millwall,Coventry,2,0
+E1,04/05/03,Norwich,Preston,2,0
+E1,04/05/03,Rotherham,Nott'm Forest,2,2
+E1,04/05/03,Sheffield Weds,Walsall,2,1
+E1,04/05/03,Stoke,Reading,1,0
+E1,04/05/03,Watford,Sheffield United,2,0
+E1,04/05/03,Wimbledon,Burnley,2,1
+E1,04/05/03,Wolves,Leicester,1,1
