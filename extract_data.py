@@ -9,4 +9,4 @@ def extract_data():
         df = pd.read_csv(link, usecols=['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG'])
         data.append(df)
     df = pd.concat(data, axis=0, ignore_index=True)
-    df.to_csv('data/league.csv', index=False)
+    df.to_csv('extract/league.csv', index=False)
