@@ -24,6 +24,7 @@ def get_links():
                 links.append(link)
             else:
                 pass
+        print('Links successfully extracted')
         return links
             
         
