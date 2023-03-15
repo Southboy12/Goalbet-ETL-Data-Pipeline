@@ -1,7 +1,9 @@
 # Goal Bet ETL Data Pipeline
+
 This project is aimed at extracting, transforming and loading data from a csv file. The project includes several scripts that perform specific tasks to achieve this goal.
 
 ## Installation
+
 To use this project, clone the repository to your local machine:
 `git clone https://github.com/username/repository.git`
 
