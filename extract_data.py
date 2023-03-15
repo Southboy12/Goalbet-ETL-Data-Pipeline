@@ -10,3 +10,4 @@ def extract_data():
         data.append(df)
     df = pd.concat(data, axis=0, ignore_index=True)
     df.to_csv('extract/league.csv', index=False)
+    print('Data successfully extracted and written to a csv file')
